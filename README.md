@@ -1,5 +1,3 @@
-# AI Buildout Credit Stress Monitor
-
 # AI Infrastructure Credit Risk Analysis
 
 **Live demo:** [Open the dashboard](https://ai-infrastructure-credit-risk-analysis-sec-filings-vs-market-v.streamlit.app/)
