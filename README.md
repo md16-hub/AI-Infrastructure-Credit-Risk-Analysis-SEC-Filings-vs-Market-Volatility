@@ -4,8 +4,8 @@
 
 **Live demo:** [Open the dashboard](https://ai-infrastructure-credit-risk-analysis-sec-filings-vs-market-v.streamlit.app/)
 
-![Dashboard](<docs/Dashboard 1, 2.png>)
-![](<docs/Dashboard 3, 4.png>)
+![Dashboard](Dashboard%201%2C%202.png)
+![](Dashboard%203%2C%204.png)
 
 ## The question
 
