@@ -11,6 +11,13 @@ AI data center growth is increasingly financed with debt, but the harder credit 
  
 ---
  
+## The Problem
+AI data center growth is increasingly financed with debt, but the risk is not where most people look. The big cloud companies can fund capex out of operating cash flow. The harder credit questions sit with power producers, grid equipment makers, data center REITs and leveraged hardware suppliers.
+ 
+- If the market is nervous about a company with sound financials, that is likely hedging.
+- If leverage is rising while the market stays calm, that is the case worth flagging early.
+---
+ 
 ## Key Findings
 The sample is small, so these are my reads of the data, not proven results. Full numbers are in `FINDINGS.md`.
  
